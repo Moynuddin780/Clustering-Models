@@ -2,7 +2,7 @@
 # Iris Clustering Analysis
 
 ## Overview
-This Jupyter Notebook (`2_Ostad_Clustering_Assignment.ipynb`) performs an unsupervised clustering analysis on the Iris dataset, a well-known dataset in machine learning consisting of measurements of sepal and petal dimensions for three species of iris flowers. The notebook demonstrates the application of multiple clustering algorithms, including K-Means, DBSCAN, and Agglomerative Clustering, to explore patterns within the data. It also includes data preprocessing, visualization, and evaluation steps to provide insights into the clustering results.
+This Jupyter Notebook  performs an unsupervised clustering analysis on the Iris dataset, a well-known dataset in machine learning consisting of measurements of sepal and petal dimensions for three species of iris flowers. The notebook demonstrates the application of multiple clustering algorithms, including K-Means, DBSCAN, and Agglomerative Clustering, to explore patterns within the data. It also includes data preprocessing, visualization, and evaluation steps to provide insights into the clustering results.
 
 ## Dataset
 The Iris dataset is sourced from `sklearn.datasets.load_iris` and includes:
